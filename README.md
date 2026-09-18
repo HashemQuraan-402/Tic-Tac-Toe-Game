@@ -31,7 +31,7 @@ A local two-player Tic-Tac-Toe desktop game built with C# and Windows Forms. The
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HashemQuraan-402/Tic-Tac-Toe-Game.git
+   git clone https://github.com/HashemQuraan-402/tic-tac-toe-winforms.git
    ```
 
 2. Open `Tic-Tac_Toe Game.sln` in Visual Studio.
@@ -48,7 +48,7 @@ A local two-player Tic-Tac-Toe desktop game built with C# and Windows Forms. The
 ## Project Structure
 
 ```text
-Tic-Tac-Toe-Game/
+tic-tac-toe-winforms/
 ├── Properties/
 ├── Resources/
 ├── App.config
@@ -79,4 +79,3 @@ The game supports two players on the same computer. It does not currently includ
 
 - [GitHub](https://github.com/HashemQuraan-402)
 - [LinkedIn](https://www.linkedin.com/in/hashem-quraan-b561453ab)
-
